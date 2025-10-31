@@ -1,0 +1,72 @@
+# 🏦 Mitron Bank – Credit Card Recommendation Analysis
+
+### 📊 Domain: Banking  
+**Tools Used:** Power BI | Power Query  
+
+---
+
+## 📘 **Project Overview**
+
+This project focuses on the **analysis of customer spending behavior** to recommend new **credit card strategies** for **Mitron Bank**, a reputed bank based in Hyderabad.  
+
+The goal was to understand customer **income utilization**, **spending categories**, and **preferred payment methods** to help the bank design data-driven and targeted credit card offerings.  
+
+---
+
+## 🧩 **Dataset Description**
+
+- Dataset provided by **Mitron Bank**, containing **4,000 customers** across **5 major cities**.  
+- Includes customer details such as:
+  - **Age group**
+  - **Occupation** (IT, Private, Business, Freelancing, Govt.)
+  - **Spending data** across multiple **categories and payment methods**  
+
+This project is part of **Codebasics Resume Project Challenge #8**.  
+You can download the dataset and try it yourself here:  
+🔗 [Codebasics Project Challenge #8 – Banking Domain](https://codebasics.io/challenges)
+
+---
+
+## 🧠 **Key Observations**
+
+### 🧍‍♂️ Age Group  
+- The **25–34** and **35–44** age groups contribute nearly **70% of total spending**, making them the most active and valuable customer segments.  
+
+### 💼 Occupation  
+- **Salaried IT employees**, **freelancers**, and **other salaried professionals** show higher income levels and utilization rates compared to other groups.  
+
+### 🏢 Business Owners  
+- **Business owners** have the highest average income, suggesting potential for a **high-value credit card** with exclusive benefits.  
+
+### 🛍️ Spending Categories  
+- The **top three spending categories** are **Utility Bills, Groceries, and Electronics**, together accounting for **over 50% of total spending**.  
+
+### 💳 Payment Methods  
+- Around **65% of transactions** are made via **UPI and Credit Cards**, reflecting strong **digital payment adoption** across cities.  
+
+---
+
+## 🚀 **Recommendations**
+
+- 🎯 **Target Audience:** Focus on **25–44-year-old** customers, particularly **salaried professionals and IT employees**, for mainstream credit card products.  
+- 🌆 **City Rollout:** Start in **Mumbai, Delhi NCR, and Hyderabad**, where income utilization and digital activity are higher.  
+- 💼 **Business Rewards Card:** Design a premium card for **entrepreneurs and business owners** with higher credit limits and travel/office-related perks.  
+- 🛒 **Product Design:**
+  - **Essential Combo Card:** Bills, Groceries, Apparel, Electronics  
+  - **Lifestyle Combo Card:** Travel, Food, Entertainment  
+- 💳 **Digital Innovation:** Launch a **UPI-enabled Credit Card** to simplify digital transactions and encourage customers to use UPI through credit.  
+- 💰 **Rewards & Loyalty:** Introduce **cashback and reward programs** for top categories (Utilities, Groceries, Electronics) to increase adoption and retention.  
+
+---
+
+## 📈 **Key Insights Delivered Through Power BI**
+- Interactive dashboards showing **customer demographics, income, spending, and payment trends**.  
+- Bookmark-driven **slicer navigation** for dynamic filtering.  
+- Page-level insights for **Demographics, Income, Spending, Utilization, and Recommendations**.  
+
+---
+
+## 🏁 **Conclusion**
+
+This analysis provides Mitron Bank with a clear understanding of customer behavior and spending patterns.  
+By leveraging these insights, the bank can **launch targeted, category-based, UPI-enabled credit cards** that align with customer preferences and maximize engagement.
