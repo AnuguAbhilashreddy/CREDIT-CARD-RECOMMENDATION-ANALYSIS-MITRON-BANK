@@ -88,4 +88,4 @@ A.Abhilash Reddy
 
 looking forward to kick start my career in Data sector
 
-connect with me [LinkedIn](https://www/linkedin.com/in/anuguabhilashreddy)
+connect with me [LinkedIn](https://www.linkedin.com/in/abhilashreddyanugu)
