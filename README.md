@@ -26,7 +26,7 @@ The goal was to understand customer income utilization, spending categories, and
 
 - 📎 You can download the dataset and try it yourself here:
 - 
-🔗 [Codebasics Resume Project Challenge #8](https://codebasics.io/challenges/codebasics-resume-project-challenge/20)
+🔗 [Codebasics Resume Project Challenges](https://codebasics.io/challenges/codebasics-resume-project-challenge/20)
 
 ### 🧠 Key Observations
 
@@ -73,7 +73,7 @@ Around 65% of transactions are made via UPI and Credit Cards, reflecting strong 
 
 📊 Live Power BI Report: [Click Here to View!](https://app.powerbi.com/view?r=eyJrIjoiNGRiMzU3MGQtYWZjZi00MGEzLThjYWYtOGM1MDlmNjNmZDI4IiwidCI6IjIxZmE1Njk5LTYzNTItNDFiZS05YjVhLWJjMTFmZjAxOWRiNCJ9)
 
-📄 PDF Version of Power BI Report: ([click here](https://github.com/AnuguAbhilashreddy/CREDIT-CARD-RECOMMENDATION-ANALYSIS-MITRON-BANK/blob/main/mitranbank_credit%20card%20recommendation%20analysis.pdf)
+📄 PDF Version of Power BI Report: [click here](https://github.com/AnuguAbhilashreddy/CREDIT-CARD-RECOMMENDATION-ANALYSIS-MITRON-BANK/blob/main/mitranbank_credit%20card%20recommendation%20analysis.pdf)
 
 Here is the walk you throgh video [click here](https://youtu.be/qbadwRL2rWo)
 
