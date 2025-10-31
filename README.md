@@ -76,7 +76,9 @@ Page-level insights for Demographics, Income, Spending, Utilization, and Recomme
 ## Important links: ##
 Here is the PowerBI live report [click here!!!](https://app.powerbi.com/view?r=eyJrIjoiNGRiMzU3MGQtYWZjZi00MGEzLThjYWYtOGM1MDlmNjNmZDI4IiwidCI6IjIxZmE1Njk5LTYzNTItNDFiZS05YjVhLWJjMTFmZjAxOWRiNCJ9)
 
-[here is the pdf of PowerBI Report]()
+here is the walk you through video[click here](https://youtu.be/qbadwRL2rWo)
+
+[here is the pdf of PowerBI Report](https://github.com/AnuguAbhilashreddy/CREDIT-CARD-RECOMMENDATION-ANALYSIS-MITRON-BANK/blob/main/mitranbank_credit%20card%20recommendation%20analysis.pdf)
 
 **About me**
 ---
