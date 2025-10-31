@@ -6,9 +6,10 @@
 
 ### 📘 Project Overview
 
-This project focuses on the analysis of customer spending behavior to recommend new credit card strategies for Mitron Bank, a reputed bank based in Hyderabad.
-
-The goal was to understand customer income utilization, spending categories, and preferred payment methods to help the bank design data-driven and targeted credit card offerings.
+Hyderabad-based Mitron Bank, a reputed financial institution, aims to launch new credit cards into the market.
+The company wants to analyze customer transaction data to study their spending behavior across different categories and payment methods.
+The dataset contains 4,000 customers from 5 cities, representing various age groups and working across sectors like IT, Private, Business, Freelancing, and Government.
+Based on the analysis, key insights and credit card recommendations have been proposed.
 
 ### 🧩 Dataset Description
 
