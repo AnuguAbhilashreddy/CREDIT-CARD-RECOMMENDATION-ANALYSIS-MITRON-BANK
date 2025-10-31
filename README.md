@@ -1,70 +1,65 @@
-# 🏦 Mitron Bank – Credit Card Recommendation Analysis # 
-**📊 Domain:** Banking 
+🏦 Mitron Bank – Credit Card Recommendation Analysis
 
-**Tools Used:** Power BI | Power Query
+📊 Domain: Banking
+🧰 Tools Used: Power BI | Power Query
 
-### 📘 Project Overview ##
+📘 Project Overview
 
 This project focuses on the analysis of customer spending behavior to recommend new credit card strategies for Mitron Bank, a reputed bank based in Hyderabad.
 
 The goal was to understand customer income utilization, spending categories, and preferred payment methods to help the bank design data-driven and targeted credit card offerings.
 
-### 🧩 Dataset Description
+🧩 Dataset Description
 
-- Dataset provided by Mitron Bank, containing 4,000 customers across **5 major cities.**
+Dataset provided by Mitron Bank, containing 4,000 customers across 5 major cities.
 
-- ***Includes customer details such as:***
+Includes customer details such as:
 
-- Age group
+Age group
 
-- Occupation (IT, Private, Business, Freelancing, Govt.)
+Occupation (IT, Private, Business, Freelancing, Govt.)
 
-- Spending data across multiple categories and payment methods
+Spending data across multiple categories and payment methods
 
-- This project is part of Codebasics Resume Project Challenge #8. 
+This project is part of Codebasics Resume Project Challenge #8.
 
-**You can download the dataset and try it yourself here:**
+📎 You can download the dataset and try it yourself here:
+🔗 Codebasics Project Challenge #8 – Banking Domain
 
-[🔗 Codebasics Project Challenge #8 – Banking Domain](https://codebasics.io/challenges)
+🧠 Key Observations
 
-### 🧠 Key Observations:
-**Age Group**
-
+👥 Age Group
 The 25–34 and 35–44 age groups contribute nearly 70% of total spending, making them the most active and valuable customer segments.
 
-**💼 Occupation**
-
+💼 Occupation
 Salaried IT employees, freelancers, and other salaried professionals show higher income levels and utilization rates compared to other groups.
 
-**🏢 Business Owners**
-
+🏢 Business Owners
 Business owners have the highest average income, suggesting potential for a high-value credit card with exclusive benefits.
 
-**🛍️ Spending Categories**
+🛍️ Spending Categories
+The top three spending categories are Utility Bills, Groceries, and Electronics, together accounting for over 50% of total spending.
 
-The top three spending categories are **Utility Bills, Groceries, and Electronics,** together accounting for **over 50% of total spending.**
+💳 Payment Methods
+Around 65% of transactions are made via UPI and Credit Cards, reflecting strong digital payment adoption across cities.
 
-**💳 Payment Methods**
+🚀 Recommendations
 
-Around **65% of transactions are made via UPI and Credit Cards**, reflecting strong digital payment adoption across cities.
+🎯 Target Audience: Focus on 25–44-year-old customers, particularly salaried professionals and IT employees, for mainstream credit card products.
 
-## 🚀 Recommendations
+🌆 City Rollout: Start in Mumbai, Delhi NCR, and Hyderabad, where income utilization and digital activity are higher.
 
-  - **🎯 Target Audience:** Focus on 25–44-year-old customers, particularly salaried professionals and IT employees, for mainstream credit card products.
+💼 Business Rewards Card: Design a premium card for entrepreneurs and business owners with higher credit limits and travel/office-related perks.
 
-  - **🌆 City Rollout:** Start in Mumbai, Delhi NCR, and Hyderabad, where income utilization and digital activity are higher.
+🛒 Essential Combo Card: Bills, Groceries, Apparel, Electronics
 
- - Design a premium card for entrepreneurs and business owners with higher credit limits and travel/office-related perks.
+🎟️ Lifestyle Combo Card: Travel, Food, Entertainment
 
-- **Essential Combo Card:** Bills, Groceries, Apparel, Electronics
+💳 Launch a UPI-enabled Credit Card to simplify digital transactions and encourage customers to use UPI through credit.
 
-- **Lifestyle Combo Card:** Travel, Food, Entertainment
+💰 Rewards & Loyalty: Introduce cashback and reward programs for top categories (Utilities, Groceries, Electronics) to increase adoption and retention.
 
-- 💳**Launch a UPI-enabled Credit Card** to simplify digital transactions and encourage customers to use UPI through credit.
-
-- **💰 Rewards & Loyalty:** Introduce cashback and reward programs for top categories (Utilities, Groceries, Electronics) to increase adoption and retention.
-
-## 📈 Key Insights Delivered Through Power BI
+📈 Key Insights Delivered Through Power BI
 
 Interactive dashboards showing customer demographics, income, spending, and payment trends.
 
@@ -72,20 +67,18 @@ Bookmark-driven slicer navigation for dynamic filtering.
 
 Page-level insights for Demographics, Income, Spending, Utilization, and Recommendations.
 
+🔗 Important Links
 
-## Important links: ##
-Here is the PowerBI live report [click here!!!](https://app.powerbi.com/view?r=eyJrIjoiNGRiMzU3MGQtYWZjZi00MGEzLThjYWYtOGM1MDlmNjNmZDI4IiwidCI6IjIxZmE1Njk5LTYzNTItNDFiZS05YjVhLWJjMTFmZjAxOWRiNCJ9)
+📊 Live Power BI Report: [Click Here to View!](https://app.powerbi.com/view?r=eyJrIjoiNGRiMzU3MGQtYWZjZi00MGEzLThjYWYtOGM1MDlmNjNmZDI4IiwidCI6IjIxZmE1Njk5LTYzNTItNDFiZS05YjVhLWJjMTFmZjAxOWRiNCJ9)
 
-here is the walk you through video[click here](https://youtu.be/qbadwRL2rWo)
+📄 PDF Version of Power BI Report: ([click here](https://github.com/AnuguAbhilashreddy/CREDIT-CARD-RECOMMENDATION-ANALYSIS-MITRON-BANK/blob/main/mitranbank_credit%20card%20recommendation%20analysis.pdf)
 
-here is the pdf of PowerBI Report[click here!!!](https://github.com/AnuguAbhilashreddy/CREDIT-CARD-RECOMMENDATION-ANALYSIS-MITRON-BANK/blob/main/mitranbank_credit%20card%20recommendation%20analysis.pdf)
+Here is the walk you throgh video [click here](https://youtu.be/qbadwRL2rWo)
 
-**About me**
----
-A.Abhilash Reddy
+👤 About Me
 
-5 years of eperiance in banking and Insurance sector.
+A. Abhilash Reddy
+5 years of experience in Banking and Insurance sector.
+Currently looking to kick-start a career in Data Analytics.
 
-looking forward to kick start my career in Data sector
-
-connect with me [LinkedIn](https://www.linkedin.com/in/abhilashreddyanugu)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhilashreddyanugu)
